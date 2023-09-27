@@ -18,6 +18,8 @@ the number of larger particles and the number of smaller particles can be measur
 
 The MPDM has a systematic procedure to predict the packing density of the random particle packing. There are multiple different statuses to be used to define and control the process of the MPDM, they are designed for the larger particles-dominated situation. Those statuses are printed to the “Experiment Status” at the control menu during the entire experimental process, which also allows the user to manage the experiment status easily.
 
+Main development file: GameViewController.swift
+
 
 ## Usage
 
