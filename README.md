@@ -13,3 +13,5 @@ is generated randomly at the top of the rigid container. After a mixing process 
 number of larger particles and number of smaller particles can be measured as well as the volumetric fractions of either the larger particles or the smaller particles.
 
 <img width="1306" alt="CleanShot 2023-05-15 at 10 52 27@2x" src="https://github.com/wengchonglao0124/Concrete-Packing-Density-MPDM-Model/assets/85862169/281fffcb-3671-468b-a77f-4cfd9afbfee3">
+
+The MPDM has a systematic procedure to predict the packing density of the random particle packing. There are multiple different statuses to be used to define and control the process of the MPDM, they are design for the larger particles dominated situation. Those statuses are printed to the “Experiment Status” at the control menu during the entire experimental process, which also allow the user to manage the experiment status easily.
