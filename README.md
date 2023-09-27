@@ -8,6 +8,8 @@ the required operating system of the MPDM is the MacOS system. It can simulate t
 other physical movements of the particles due to gravity in the virtual environment, the simulation of the MPDM is much more accurate than the PPDM. 
 Moreover, the MPDM simulates the particle packing in the 3D environment which is close to reality, while the PPDM can only simulate the 2D particle packing (disc packing).
 
+2D Model PPDM: https://github.com/wengchonglao0124/Concrete-Packing-Density-PPDM-Model.git
+
 The environment of the MPDM is composed of a 3D rigid container with a transparent background, a binary mixture of the larger particles and smaller particles 
 is generated randomly at the top of the rigid container. After a mixing process (vibration) and the particle settlement, the packing density of the system, 
 the number of larger particles and the number of smaller particles can be measured as well as the volumetric fractions of either the larger particles or the smaller particles.
@@ -97,7 +99,6 @@ Thesis Report:
 https://drive.google.com/file/d/1kYt8tZzQzIIAhf1cOUQxt3hvW-5Hmh5T/view
 
 
-<br/>
 ## Reference
 
 Charts Library
